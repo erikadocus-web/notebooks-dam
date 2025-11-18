@@ -8,5 +8,5 @@ Documentación del 1ºTrimestre de Programación 1ºDAM
 4. Excepciones en Python ["notebook excepciones"](./Excepciones.ipynb)
 5. Listas en Python ["notebook listas"](./Listas.ipynb)
 6. Listas2 en Python ["notebook listas2"](./Listas2.ipynb)
-7. Diccionario en Python ["notebook diccionarios"](./diccionario.ipynb)
+7. Diccionarios en Python ["notebook diccionarios"](./diccionarios.ipynb)
 8. Diccionario capitulo 19 en Python ["notebook diccionario capitulo  19"](./Diccionario_cap19.ipynb)
