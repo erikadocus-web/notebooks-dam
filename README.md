@@ -11,6 +11,5 @@ Documentación del 1ºTrimestre de Programación 1ºDAM
 7. Diccionarios en Python ["notebook diccionarios"](./diccionarios.ipynb)
 <<<<<<< HEAD
 8. Diccionarios capitulo 19 en Python ["notebook diccionarios capitulo  19"](./Diccionarios_cap19.ipynb)
-=======
 8. Diccionario capitulo 19 en Python ["notebook diccionario capitulo  19"](./Diccionario_cap19.ipynb)
->>>>>>> 059221dd3a3a193bbc4436f31bf689e5d47a2817
+9. Operadores lógicos ["notebook operadores lógicos"](./operadores_logicos_simples.ipynb)
