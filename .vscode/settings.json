@@ -1,0 +1,15 @@
+{
+    "conventionalCommits.scopes": [
+        "Strings",
+        "README",
+        "Variables",
+        "VariablesReferenciasObjetos",
+        "Parametros",
+        "Excepciones",
+        "Listas",
+        "Listas2",
+        "diccionarios",
+        "Diccionario_cap19",
+        "Operadores"
+    ]
+}
